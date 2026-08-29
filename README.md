@@ -18,4 +18,4 @@ Made it for fun.
    python3 main.py
    ```
 
-### AI Usage: This repository was coded mostly by the me, but i used AI for some bugfixes. The main things, such as the basic logic, the name_filter module, most of the main.py, api module, were made by me.
+### AI Usage: This repository was coded mostly by me, but i used AI for some bugfixes. The main things, such as the basic logic, the name_filter module, most of the main.py, api module, were made by me.
